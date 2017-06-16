@@ -1,0 +1,9 @@
+C:\Users\student\Documents\Visual Studio 2015\Projects\ConsoleApplication12\EfDbFirstTrue\bin\Debug\EfDbFirstTrue.exe.config
+C:\Users\student\Documents\Visual Studio 2015\Projects\ConsoleApplication12\EfDbFirstTrue\bin\Debug\EfDbFirstTrue.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\ConsoleApplication12\EfDbFirstTrue\bin\Debug\EfDbFirstTrue.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\ConsoleApplication12\EfDbFirstTrue\bin\Debug\EntityFramework.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\ConsoleApplication12\EfDbFirstTrue\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\ConsoleApplication12\EfDbFirstTrue\bin\Debug\EntityFramework.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\ConsoleApplication12\EfDbFirstTrue\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\ConsoleApplication12\EfDbFirstTrue\obj\Debug\EfDbFirstTrue.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\ConsoleApplication12\EfDbFirstTrue\obj\Debug\EfDbFirstTrue.pdb
